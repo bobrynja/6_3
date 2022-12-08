@@ -1,0 +1,6 @@
+E:\3 курс\практика\6_2\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+E:\3 курс\практика\6_2\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+E:\3 курс\практика\6_2\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+E:\3 курс\практика\6_2\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+E:\3 курс\практика\6_2\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+E:\3 курс\практика\6_2\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
